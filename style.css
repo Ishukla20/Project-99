@@ -1,0 +1,25 @@
+.body{
+    background-color: aqua;
+}
+
+#cwa{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#psb{
+    color: darkred;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+
+#img{
+    width: 5px;
+    border-radius: 5px;
+    padding: 5px;
+}
